@@ -11,10 +11,6 @@ Full Stack Developer
 * ✉️  You can contact me at [contact@adilhaddaoui.com](mailto:contact@adilhaddaoui.com)
 * 🚀  I'm currently working with [Snipfeed](http://snipfeed.co) Helping creators follow their passion.
 
-<a href="https://www.twitter.com/adilhaddaoui" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/adilhaddaoui?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 
@@ -43,3 +39,7 @@ src="https://img.shields.io/twitter/follow/adilhaddaoui?logo=twitter&style=for-t
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/adilhaddaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/adilhaddaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adilhaddaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/adilhaddaoui" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.twitter.com/adilhaddaoui" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/adilhaddaoui?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>

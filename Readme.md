@@ -9,7 +9,7 @@ Full Stack Developer
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [contact@adilhaddaoui.com](mailto:contact@adilhaddaoui.com)
-* 🚀  I'm currently working with [Snipfeed](http://snipfeed.co) Helping creators follow their passion.
+* 🚀  I'm currently working with [Tungsten Custody]([http://snipfeed.co](https://tungsten.ae) Safeguarding clients digital assets as a regulated custodian.
 * 🌐 [My personal website](https://adilhaddaoui.com)
 ### Skills
 
